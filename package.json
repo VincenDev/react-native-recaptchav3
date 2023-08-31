@@ -25,7 +25,7 @@
     "@types/react-native": "^0.66.4",
     "react": "^17.0.2",
     "react-native": "^0.66.4",
-    "react-native-webview": "^11.18.1",
+    "react-native-webview": "^11.22.7",
     "typescript": "^3.1.6"
   },
   "peerDependencies": {
